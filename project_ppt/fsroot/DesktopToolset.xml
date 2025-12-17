@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolset id="user_apps_toolset" template="false">
+    <tool app_file_path="project_ppt.mlapp" handler_class="com.mathworks.deployment.desktop.toolstrip.ToolboxToolSetExtensionHandler" id="eaa74d37-b25e-4ef5-a076-9bb28c8ebe11:project_ppt.mlapp" label="project_ppt" quick_access_eligible="false" toolset_id="user_apps_toolset">
+        <callback>project_ppt</callback>
+        <summary></summary>
+        <description></description>
+        <icon filename="matlab_app_generic_icon_24" id="app"/>
+        <icon filename="matlab_app_generic_icon_16"/>
+        <parent_tool id="my_apps" toolset_id="apps_toolset"/>
+    </tool>
+</toolset>
